@@ -1,4 +1,4 @@
-package com.codinginflow.mvvmtodo
+package com.codinginflow.YukProduktif
 
 import org.junit.Test
 
